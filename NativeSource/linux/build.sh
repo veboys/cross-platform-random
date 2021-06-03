@@ -1,0 +1,1 @@
+gcc -shared -fPIC librandom.cpp -o librandom.so
